@@ -1,14 +1,14 @@
 # Bilibili_Fans
 Arduino环境下使用以TTGO-T-Display(ESP32)实现自动获取B站对应UID的关注等数据，在液晶屏上显示。
-![ttgo](.\images\ttgo.jpg)
+![ttgo](images/ttgo.jpg)
 
-![01](.\images\begin.jpg)
+![01](images/begin.jpg)
 
-![02](.\images\connecting.jpg)
+![02](images/connecting.jpg)
 
-![03](.\images\connected.jpg)
+![03](images/connected.jpg)
 
-![04](.\images\fans.jpg)
+![04](images/fans.jpg)
 
 ### 开发流程
 
